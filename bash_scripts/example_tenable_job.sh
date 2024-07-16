@@ -2,7 +2,7 @@
 
 SSP=$1
 NESSUS_FOLDER_PATH=$2
-DOMAIN='https://regscale.eatonfam.com'
+DOMAIN='https://regscale.example.com'
 
 # Throw exception if SSP is not provided
 
