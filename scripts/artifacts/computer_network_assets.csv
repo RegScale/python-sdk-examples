@@ -1,0 +1,6 @@
+Asset ID,Asset Name,Asset Type,IP Address,MAC Address,Operating System,Location
+A001,Server01,Server,192.168.1.1,00:1A:2B:3C:4D:5E,Windows Server 2016,Data Center 1
+A002,Laptop01,Laptop,192.168.1.101,00:1A:2B:3C:4D:5F,Windows 10,Office 1
+A003,Desktop01,Desktop,192.168.1.102,00:1A:2B:3C:4D:5G,Ubuntu 20.04,Office 2
+A004,Printer01,Printer,192.168.1.200,00:1A:2B:3C:4D:5H,n/a,Office 3
+A005,Router01,Router,192.168.1.254,00:1A:2B:3C:4D:5I,Cisco IOS,Data Center 1
