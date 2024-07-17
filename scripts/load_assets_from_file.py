@@ -44,4 +44,5 @@ if __name__ == '__main__':
         else:
             print(f"Updating asset {asset.name}")
             existing_asset = existing_assets[existing_assets.index(asset)]
-            existing_asset.save()
+            asset.id = existing_asset.id
+            asset.save()
